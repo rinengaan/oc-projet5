@@ -28,7 +28,7 @@ const elementTagLine = document.querySelector('#banner p')
 
 
 // Calc variable
-let displayedImg = 0
+let displayedImg = 0 // cette variable correspond à l'index de l'image qui est affichée
 
 // Init carousel
 addDots()
